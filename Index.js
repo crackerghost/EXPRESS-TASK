@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/tasks", (req, res) => {
-  res.status(200).sendFile(task);
+  res.status(200).send(task);
 });
 
 app.post("/addTask", (req, res) => {
