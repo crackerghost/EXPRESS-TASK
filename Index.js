@@ -8,7 +8,7 @@ let task = [
     "date": "09-09-2024 7:30 PM",
     "status": "Pending",
     "desc": "Buy essential groceries for the week including fruits, vegetables, dairy, and pantry items. Check current stock and update the shopping list before heading out."
-  }
+  },
   
   
 ];
